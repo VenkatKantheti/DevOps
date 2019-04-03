@@ -1,0 +1,12 @@
+#! /bin/bash
+yum update -yum
+yum install nginx -yum
+
+#! /bin/bash/
+
+A=10
+if [[ $ {A} -eg 10]]
+then
+  echo "A value is 10"
+else
+  echo "A is not 10"  
