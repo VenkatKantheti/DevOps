@@ -1,5 +1,5 @@
 #! /bin/bash/
-echo "This is a message"
+echo "This is a message to get the value"
 A=10
 if [[ $ {A} -eg 10]]
 then
